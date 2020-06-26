@@ -10,11 +10,11 @@ It meets all of the requirements. The app is responsive which fits the browsers 
 
 Test case - desktop view:
 
-![1593179435834](C:\Users\Chris\AppData\Roaming\Typora\typora-user-images\1593179435834.png)
+![desktop](desktop.png)
 
 Test case - Mobile view:
 
-![1593179525853](C:\Users\Chris\AppData\Roaming\Typora\typora-user-images\1593179525853.png)
+![mobile](C:\Users\Chris\Desktop\申请实习\BOSHANTECH Assignment\my-app\mobile.jpg)
 
 P.S. Sorry, I am in exam period and busy in preparing exams. I tried my best to deliver this assignment by 26th June. 
 
