@@ -1,6 +1,6 @@
 import React from 'react'
 import Dog from './dog'
-// import './test.css';
+import './test.css';
 
 class Test extends React.Component {
     constructor(props) {
@@ -34,7 +34,7 @@ class Test extends React.Component {
     render() {
         return (
 
-            <div class={"grid"}>
+            <div class="container" >
                 {
                 [...Array(8)].map((i) => <Dog key={i}/>)
             }
