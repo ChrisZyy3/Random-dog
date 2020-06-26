@@ -14,7 +14,7 @@ Test case - desktop view:
 
 Test case - Mobile view:
 
-![mobile](C:\Users\Chris\Desktop\申请实习\BOSHANTECH Assignment\my-app\mobile.jpg)
+![mobile](mobile.jpg)
 
 P.S. Sorry, I am in exam period and busy in preparing exams. I tried my best to deliver this assignment by 26th June. 
 
