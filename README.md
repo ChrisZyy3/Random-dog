@@ -14,7 +14,7 @@ Test case - desktop view:
 
 Test case - Mobile view:
 
-![mobile](mobile.jpg)
+<img src="mobile.jpg" alt="mobile" style="zoom:50%;" />
 
 P.S. Sorry, I am in exam period and busy in preparing exams. I tried my best to deliver this assignment by 26th June. 
 
