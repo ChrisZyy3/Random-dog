@@ -11,8 +11,6 @@ class App extends React.Component {
         }
     }
 
-
-
     componentDidMount() {
         var  api='https://random.dog/woof.json';
         axios.get(api)
