@@ -1,6 +1,24 @@
-This is the assignment for BOSHANTECH
+This is the little assignment for BOSHANTECH.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the project directory, you can run this code to start the app.
+
+### `npm start`
+
+The app will show 8 dogs randomly from API: [https://random.dog/woof.json](https://protect-au.mimecast.com/s/5qUYCvl0E5u77BG6vhz8csh?domain=random.dog) 
+
+It meets all of the requirements. The app is responsive which fits the browsers resolution. In my opinion, it is better than fix 4*2 in desktop or 1 * 8 in mobile view. The app support common formats and it will display them correctly.
+
+Test case - desktop view:
+
+![1593179435834](C:\Users\Chris\AppData\Roaming\Typora\typora-user-images\1593179435834.png)
+
+Test case - Mobile view:
+
+![1593179525853](C:\Users\Chris\AppData\Roaming\Typora\typora-user-images\1593179525853.png)
+
+P.S. Sorry, I am in exam period and busy in preparing exams. I tried my best to deliver this assignment by 26th June. 
+
+Below are the default context when creating React app.
 
 ## Available Scripts
 
